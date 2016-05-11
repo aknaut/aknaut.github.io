@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>http://aknaut.github.io</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2016-05-11T00:00:00+02:00</updated><entry><title>Let me Think One Moment</title><link href="/let-me-think-one-moment.html" rel="alternate"></link><published>2016-05-11T00:00:00+02:00</published><author><name>Andreas Knaut</name></author><id>tag:,2016-05-11:let-me-think-one-moment.html</id><summary type="html">&lt;style type="text/css"&gt;/*!
+<feed xmlns="http://www.w3.org/2005/Atom"><title>http://aknaut.github.io</title><link href="/" rel="alternate"></link><link href="/feeds/misc.atom.xml" rel="self"></link><id>/</id><updated>2016-05-11T00:00:00+02:00</updated><entry><title>Let me Think One Moment</title><link href="/let-me-think-one-moment.html" rel="alternate"></link><published>2016-05-11T00:00:00+02:00</published><author><name>Andreas Knaut</name></author><id>tag:,2016-05-11:let-me-think-one-moment.html</id><summary type="html">&lt;style type="text/css"&gt;/*!
 *
 * IPython notebook
 *
